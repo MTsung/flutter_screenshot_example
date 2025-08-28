@@ -1,5 +1,13 @@
 # Flutter Screenshot Example
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5088df93-ed07-4177-8a0a-21bf57a4a7c2" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/04fa9dab-214b-490d-9c14-b9752f25e814" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/60ce16e0-21e8-40f9-9675-a690e17e814b" />
+
+
+
+---
+
 在 Flutter 中利用 `RepaintBoundary` 和 `GlobalKey` 將 **Widget 截圖轉成圖片 (PNG)**。  
 轉成 `Uint8List` 後，就可以做到：
 
